@@ -1,1 +1,2 @@
 # Electric-Water-Heater
+ This project is developed around the PIC16f877A microcontroller. To simulate the hardware, we used the PICSimLab v0.8 kit. This kit supports all the peripherals needed for the development of this project. MPLAB is used as the IDE to code and build the software. There exist 7 different modules that are integrated together to build this project. These modules are : Software Initialization module, Timer module (three timers), ADC module, Seven Segment module (two multiplexed displays), Set Temperature module, Cooler/Heater module, EEPROM module.
